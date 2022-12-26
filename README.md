@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Raviteja-Pegada
-- 👀 I’m interested in Coding and web developing.
-- 🌱 I’m currently learning web developing.
+- 👀 I’m interested in Coding and Pentesting.
 - 📫 How to reach me raviteja_52-twitter
 
 <!---
