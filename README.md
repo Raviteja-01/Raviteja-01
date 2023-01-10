@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raviteja-Pegada
+- 👋 Hi, I’m @Raviteja
 - 👀 I’m interested in Coding and Pentesting.
 - 📫 How to reach me raviteja_52-twitter
 
